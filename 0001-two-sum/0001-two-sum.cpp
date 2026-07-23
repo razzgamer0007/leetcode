@@ -1,4 +1,3 @@
-# leetcode
 class Solution {
 public:
     // razzgamer0007
@@ -16,15 +15,3 @@ public:
         return {}; // no solution found
     }
 };
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/razzgamer0007/leetcode/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/razzgamer0007/leetcode/tree/master/0001-two-sum) |
-<!---LeetCode Topics End-->
