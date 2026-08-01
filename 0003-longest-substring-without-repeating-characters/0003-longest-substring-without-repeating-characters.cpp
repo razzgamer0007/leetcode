@@ -1,10 +1,11 @@
 class Solution {
 public:
+        // razzgamer0007
     int lengthOfLongestSubstring(string s) {
-        unordered_map<char, int> lastSeen;
+        vector<int> lastSeen(128, -1);  // ASCII range
         int left = 0, maxLen = 0;
         for (int right = 0; right < s.size(); right++) {
-            if (lastSeen.count(s[right]) && lastSeen[s[right]] >= left) {
+            if (lastSeen[s[right]] >= left) {
                 left = lastSeen[s[right]] + 1;
             }
             lastSeen[s[right]] = right;
