@@ -103,6 +103,14 @@ public:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/razzgamer0007/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/razzgamer0007/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/razzgamer0007/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
 |  |
 | ------- |
