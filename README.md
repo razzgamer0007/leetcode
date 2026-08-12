@@ -24,6 +24,7 @@ public:
 | ------- |
 | [0001-two-sum](https://github.com/razzgamer0007/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/razzgamer0007/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/razzgamer0007/leetcode/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ public:
 | [0005-longest-palindromic-substring](https://github.com/razzgamer0007/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/razzgamer0007/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/razzgamer0007/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/razzgamer0007/leetcode/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,4 +74,8 @@ public:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/razzgamer0007/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/razzgamer0007/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
