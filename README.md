@@ -27,6 +27,7 @@ public:
 | [0014-longest-common-prefix](https://github.com/razzgamer0007/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/razzgamer0007/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/razzgamer0007/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/razzgamer0007/leetcode/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ public:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/razzgamer0007/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/razzgamer0007/leetcode/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +105,14 @@ public:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/razzgamer0007/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/razzgamer0007/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/razzgamer0007/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
 |  |
 | ------- |
@@ -116,14 +126,6 @@ public:
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/razzgamer0007/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## BoyerÃ¢ÂÂMoore String-Search Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/razzgamer0007/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthâMorrisâPratt Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/razzgamer0007/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerâMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/razzgamer0007/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
